@@ -1,8 +1,5 @@
 //
-//  CoreDataBasicsApp.swift
-//  CoreDataBasics
-//
-//  Created by Karel Bušta on 21.01.2022.
+// Copyright (c) 2022 and Confidential to DriftIntoSwift.com. All rights reserved.
 //
 
 import SwiftUI
@@ -11,7 +8,7 @@ import SwiftUI
 struct CoreDataBasicsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ArticlesView()
         }
     }
 }
